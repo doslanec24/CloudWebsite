@@ -5,4 +5,7 @@ This is a **static website** built using *Markdown* and hosted on GitHub Pages. 
 
 ### Code Snippet
 ```javascript
-console.log("Hello, world!");```
+console.log("Hello, world!");
+```
+### Quote
+> "Its better to be afraid than to get scared"
