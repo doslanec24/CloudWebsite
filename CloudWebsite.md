@@ -8,4 +8,5 @@ This is a **static website** built using *Markdown* and hosted on GitHub Pages. 
 console.log("Hello, world!");
 ```
 ### Quote
+"Its better to be afraid than to get scared"
 > "Its better to be afraid than to get scared"
