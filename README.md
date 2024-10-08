@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-<html>
-<body>
+# Welcome to My GitHub Pages Site
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+## Introduction
+This is a **static website** built using *Markdown* and hosted on GitHub Pages. Below are some cool features of GitHub Flavored Markdown:
 
-</body>
-</html>
+### Code Snippet
+```javascript
+console.log("Hello, world!");
